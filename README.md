@@ -1,24 +1,50 @@
-# README
+# Rails Forms
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a rails forms app completed using Rails
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby
+- Ruby on Rails
 
-* System dependencies
+## Setup
 
-* Configuration
+- To run this project locally, please ensure you have Ruby installed on your machine, then clone this repository by running.
 
-* Database creation
+```bash
+- git clone https://github.com/GraceOyiza/re-former.git
+```
 
-* Database initialization
+- After cloning run
 
-* How to run the test suite
+```bash 
+cd re-former
+```
+- Run rails server
 
-* Services (job queues, cache servers, search engines, etc.)
+## Authors
 
-* Deployment instructions
+👤 **Ntwali Heritier**
 
-* ...
+- Github: [@githubhandle](https://github.com/NtwaliHeritier)
+- Twitter: [@twitterhandle](https://twitter.com/NtwaliHeritier)
+- Linkedin: [linkedin](https://linkedin.com/in/ntwaliheritier)
+
+👤 **Popoola Grace Boluwatife**
+
+- Github: [@GraceOyiza](https://github.com/GraceOyiza)
+- Twitter: [@_PopsonGrace](https://twitter.com/_PopsonGrace)
+- LinkedIn: [@grace](https://www.linkedin.com/in/grace-popoola)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
+
